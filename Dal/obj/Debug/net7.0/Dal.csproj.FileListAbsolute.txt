@@ -1,0 +1,15 @@
+/Users/veronika/Projects/thirdAsp/Dal/bin/Debug/net7.0/Dal.deps.json
+/Users/veronika/Projects/thirdAsp/Dal/bin/Debug/net7.0/Dal.dll
+/Users/veronika/Projects/thirdAsp/Dal/bin/Debug/net7.0/Dal.pdb
+/Users/veronika/Projects/thirdAsp/Dal/bin/Debug/net7.0/Domain.dll
+/Users/veronika/Projects/thirdAsp/Dal/bin/Debug/net7.0/Domain.pdb
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.csproj.AssemblyReference.cache
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.AssemblyInfoInputs.cache
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.AssemblyInfo.cs
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.csproj.CoreCompileInputs.cache
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.csproj.CopyComplete
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.dll
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/refint/Dal.dll
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/Dal.pdb
+/Users/veronika/Projects/thirdAsp/Dal/obj/Debug/net7.0/ref/Dal.dll

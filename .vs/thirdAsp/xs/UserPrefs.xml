@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{E6C9B887-B094-433A-AF9C-F6C0CA4D2756}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="thirdAsp/Program.cs">
+    <Files>
+      <File FileName="thirdAsp/Program.cs" Line="26" Column="67" />
+      <File
+        FileName="thirdAsp/Migrations/20230710103120_initial_migration.cs"
+      />
+      <File FileName="thirdAsp/Migrations/20230710185026_initial.Designer.cs" />
+      <File
+        FileName="thirdAsp/Migrations/ApplicationDBContextModelSnapshot.cs"
+      />
+      <File
+        FileName="thirdAsp/Migrations/20230711082700_initial2.Designer.cs"
+      />
+      <File FileName="thirdAsp/Views/Instrument/GetInstrument.cshtml" />
+      <File FileName="thirdAsp/Controllers/InstrumentController.cs" />
+      <File FileName="thirdAsp/Controllers/CustomerController.cs" />
+      <File FileName="thirdAsp/Controllers/EmployeeController.cs" />
+      <File FileName="thirdAsp/Controllers/Order_lineController.cs" />
+      <File FileName="thirdAsp/Controllers/OrderController.cs" />
+      <File FileName="thirdAsp/Controllers/ServiceController.cs" />
+      <File FileName="thirdAsp/Controllers/WarehouseController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="thirdAsp" expanded="True">
+            <Node name="Dal" expanded="True">
+              <Node name="Dal" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="thirdAsp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.thirdAsp
+    PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app"
+  />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

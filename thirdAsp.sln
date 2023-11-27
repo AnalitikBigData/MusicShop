@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thirdAsp", "thirdAsp\thirdAsp.csproj", "{E6C9B887-B094-433A-AF9C-F6C0CA4D2756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "MusicShop.Domain\Domain.csproj", "{9917D164-8A05-4111-9403-BCD862E1898A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dal", "Dal", "{B0222D6E-4BDB-4E3C-8084-754F4A8F8E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{0A5507E1-781E-4DE7-93E0-A7367B82ACE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C9B887-B094-433A-AF9C-F6C0CA4D2756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C9B887-B094-433A-AF9C-F6C0CA4D2756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C9B887-B094-433A-AF9C-F6C0CA4D2756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C9B887-B094-433A-AF9C-F6C0CA4D2756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9917D164-8A05-4111-9403-BCD862E1898A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9917D164-8A05-4111-9403-BCD862E1898A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9917D164-8A05-4111-9403-BCD862E1898A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9917D164-8A05-4111-9403-BCD862E1898A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5507E1-781E-4DE7-93E0-A7367B82ACE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5507E1-781E-4DE7-93E0-A7367B82ACE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5507E1-781E-4DE7-93E0-A7367B82ACE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5507E1-781E-4DE7-93E0-A7367B82ACE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA71D57-3255-4583-80C0-ADB772AC209C}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A5507E1-781E-4DE7-93E0-A7367B82ACE2} = {B0222D6E-4BDB-4E3C-8084-754F4A8F8E98}
+	EndGlobalSection
+EndGlobal

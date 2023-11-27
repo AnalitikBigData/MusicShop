@@ -1,0 +1,14 @@
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/bin/Debug/net7.0/Domain.dll
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/bin/Debug/net7.0/Domain.pdb
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.dll
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.pdb
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/bin/Debug/net7.0/Domain.runtimeconfig.json
+/Users/veronika/Projects/thirdAsp/MusicShop.Domain/obj/Debug/net7.0/Domain.genruntimeconfig.cache
